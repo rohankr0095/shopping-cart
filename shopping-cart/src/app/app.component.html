@@ -1,0 +1,49 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>Welcome to {{ title }}!</h1>
+</div>
+<marquee
+  ><h2 class="header-text">
+    Have a look at products exclusively on our portal.
+  </h2></marquee
+>
+<div class="cart">
+  <h2>Your Cart</h2>
+  <p>No of items:{{ cart.quantity }}</p>
+  <p>Overall Total:{{ cart.overall_price }}</p>
+  <button (click)="checkout()">Checkout</button>
+  <button (click)="clearCart()">Clear Cart</button>
+</div>
+
+<div *ngFor="let item of items; let i = index">
+  <div class="outer-div">
+    <div class="image-div">
+      <img src="{{ item.image_url }}" />
+      <p class="item-offer">Special {{ item.offer_text }}</p>
+    </div>
+    <div class="product-info">
+      <h2 class="item-brand">{{ item.brand_name }}</h2>
+      <h3>
+        <b>{{ item.product_name }}</b>
+      </h3>
+      <p>Qty:{{ item.quantity }}</p>
+      <h4 class="item-mrp">MRP:{{ item.mrp }}</h4>
+      <h5>Our Price:{{ item.price }}</h5>
+      <div class="functionality">
+        <button
+          [ngClass]="item.selected_quantity > 0 ? 'addGreen' : ''"
+          (click)="addToCart(item)"
+        >
+          Add to Cart
+        </button>
+        <button (click)="addbutton(item)" class="addbutton">
+          Add
+        </button>
+        <p>{{ item.selected_quantity }}</p>
+        <button (click)="subtractbutton(item)">Subtract</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<router-outlet></router-outlet>

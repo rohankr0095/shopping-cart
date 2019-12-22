@@ -1,0 +1,41 @@
+.header-text {
+  color: blue;
+}
+.outer-div {
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid blue;
+}
+.image-div {
+}
+
+.item-brand {
+  color: purple;
+}
+.item-mrp {
+  text-decoration: line-through;
+}
+.item-offer {
+  color: chocolate;
+}
+.functionality {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cart {
+  position: fixed;
+  border: 2px solid red;
+  background-color: cornflowerblue;
+  width: 150px;
+  height: 160px;
+}
+
+.addGreen {
+  background-color: green;
+}
+
+.addbutton {
+  width: 20%;
+  background-image: url("../assets/downloadplus.png");
+}

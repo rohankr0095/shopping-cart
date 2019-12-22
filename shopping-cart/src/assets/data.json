@@ -1,0 +1,92 @@
+[
+  {
+    "brand_name": "MilkFood",
+    "product_name": "Milkfood pure ghee",
+    "quantity": "1L",
+    "price": 250,
+    "mrp": 300,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/jpu324w0/ghee/t/b/j/1-shudh-carton-milkfood-original-imafbzdmhmzz4esw.jpeg?q=70",
+    "offer_text": "16% OFF"
+  },
+  {
+    "brand_name": "Bemisal",
+    "product_name": "Bemisal mother's choice basmati rice",
+    "quantity": "1Kg",
+    "price": 400,
+    "mrp": 500,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/k0wqwsw0/rice/k/6/d/1-white-mother-s-choice-basmati-rice-pouch-bemisal-original-imafkhqtuydnaszr.jpeg?q=70",
+    "offer_text": "20% OFF"
+  },
+  {
+    "brand_name": "Amul",
+    "product_name": "Amul cow ghee",
+    "quantity": "1Kg",
+    "price": 300,
+    "mrp": 400,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/jua4djk0/ghee/g/7/g/200-high-aroma-cow-plastic-bottle-amul-original-imafffqgven9uh8z.jpeg?q=70",
+    "offer_text": "25% OFF"
+  },
+  {
+    "brand_name": "Patanjali",
+    "product_name": "patanjali chyawanprash",
+    "quantity": "1Kg",
+    "price": 150,
+    "mrp": 200,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/k3dc7m80/chyawanprash/a/a/q/500-special-chyawanprash-patanjali-original-imafmge4hja2tbdw.jpeg?q=70",
+    "offer_text": "33% OFF"
+  },
+  {
+    "brand_name": "Britannia",
+    "product_name": "Britannia nutri choice cracker",
+    "quantity": "500gm",
+    "price": 75,
+    "mrp": 100,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/jruyikw0/cookie-biscuit/r/a/t/100-nutri-choice-cracker-britannia-original-imafdk6aqqyy2ucd.jpeg?q=70",
+    "offer_text": "25% OFF"
+  },
+  {
+    "brand_name": "Aashirvadd",
+    "product_name": "Aashirvadd superior mp atta",
+    "quantity": "500kg",
+    "price": 750,
+    "mrp": 1000,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/j612c280/flour/b/e/2/10-superior-mp-atta-whole-wheat-flour-aashirvaad-original-imaewhy3yn5rgxy5.jpeg?q=70",
+    "offer_text": "25% OFF"
+  },
+  {
+    "brand_name": "Safe",
+    "product_name": "Safe harvest peanut",
+    "quantity": "500gm",
+    "price": 250,
+    "mrp": 500,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/jtx9evk0/pulses/p/7/b/500-groundnut-peanut-safe-harvest-original-imaff5rudz9pkyjj.jpeg?q=70",
+    "offer_text": "50% OFF"
+  },
+  {
+    "brand_name": "Madhur",
+    "product_name": "Madhur sugar",
+    "quantity": "1kg",
+    "price": 300,
+    "mrp": 400,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/jx3kn0w0/sugar/n/g/m/1-na-pouch-white-sugar-madhur-crystal-original-imafhmq6h7eznxdc.jpeg?q=70",
+    "offer_text": "25% OFF"
+  },
+  {
+    "brand_name": "Kissan",
+    "product_name": "Kissan fresh tomato ketchup",
+    "quantity": "1kg",
+    "price": 200,
+    "mrp": 250,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/jh2aqvk0/sauce-ketchup/r/t/p/950-fresh-tomato-pouch-ketchup-kissan-original-imaf56bfy2zajezn.jpeg?q=70",
+    "offer_text": "20% OFF"
+  },
+  {
+    "brand_name": "Fortune",
+    "product_name": "Fortune sunlite",
+    "quantity": "1L",
+    "price": 150,
+    "mrp": 200,
+    "image_url": "https://rukminim1.flixcart.com/image/416/416/jsoyrgw0/edible-oil/k/q/p/500-sunlite-refined-pouch-sunflower-oil-fortune-original-imafe7zzdggggkyr.jpeg?q=70",
+    "offer_text": "20% OFF"
+  }
+]
